@@ -1,3 +1,2 @@
-### I'm using NeoVim now
-### [Here](https://github.com/theniceboy/nvim) is my config
+### this is vim-configuration from theniceboy. I just change it for proper using.
 
